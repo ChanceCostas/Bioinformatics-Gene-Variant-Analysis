@@ -6,7 +6,7 @@ Analyzing where harmful, harmless, and uncertain gene variants fall along a prot
 
 **Why It Matters:** A lot of gene variants are labeled as uncertain, which means researchers don’t know if they cause disease. This project looks at where uncertain variants fall compared with known harmful ones to find any patterns. It is a student review of public data, not a clinical tool.
 
-**Gene:** One gene, RYR-1, chosen by the student
+**Gene:** One gene, RYR-1
 
 **Data:** ClinVar, UniProt, and gnomAD (public data only). Download dates: Nov. 2026
 
